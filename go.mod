@@ -113,3 +113,5 @@ require (
 	sigs.k8s.io/structured-merge-diff/v4 v4.6.0 // indirect
 	sigs.k8s.io/yaml v1.4.0 // indirect
 )
+
+replace k8s.io/apiserver => github.com/cwedgwood/apiserver v0.33.3-0.20261001234233-8a3510beabe4
