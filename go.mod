@@ -143,3 +143,5 @@ tool (
 	sigs.k8s.io/logtools/logcheck
 	sigs.k8s.io/mdtoc
 )
+
+replace k8s.io/apiserver => github.com/cwedgwood/apiserver v0.36.3-0.20261001234233-f46abd833f91
