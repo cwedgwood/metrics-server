@@ -41,8 +41,8 @@ github.com/coreos/go-systemd/v22 v22.5.0/go.mod h1:Y58oyj3AT4RCenI/lSvhwexgC+NSV
 github.com/cpuguy83/go-md2man/v2 v2.0.6/go.mod h1:oOW0eioCTA6cOiMLiUPZOpcVxMig6NIQQ7OS05n1F4g=
 github.com/creack/pty v1.1.18 h1:n56/Zwd5o6whRC5PMGretI4IdRLlmBXYNjScPaBgsbY=
 github.com/creack/pty v1.1.18/go.mod h1:MOBLtS5ELjhRRrroQr9kyvTxUAFNvYEK993ew/Vr4O4=
-github.com/cwedgwood/apiserver v0.33.3-0.20261001234233-8a3510beabe4 h1:vc51rZGcnoQDE/WsyeZve4Tn1hBMwNk3m9LNYGkGOXM=
-github.com/cwedgwood/apiserver v0.33.3-0.20261001234233-8a3510beabe4/go.mod h1:9qday04wEAMLPWWo9AwqCZSiIn3OYSZacDyu/AcoM/M=
+github.com/cwedgwood/apiserver v0.33.3-0.20261002004149-a5a724954ed4 h1:iAsFWh3hZvxFUewRJuLZ7sfc8z9ce+h1t3w63fv7wyc=
+github.com/cwedgwood/apiserver v0.33.3-0.20261002004149-a5a724954ed4/go.mod h1:9qday04wEAMLPWWo9AwqCZSiIn3OYSZacDyu/AcoM/M=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc h1:U9qPSI2PIWSS1VwoXQT9A3Wy9MM3WgvqSxFWenqJduM=

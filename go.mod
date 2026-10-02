@@ -114,4 +114,4 @@ require (
 	sigs.k8s.io/yaml v1.4.0 // indirect
 )
 
-replace k8s.io/apiserver => github.com/cwedgwood/apiserver v0.33.3-0.20261001234233-8a3510beabe4
+replace k8s.io/apiserver => github.com/cwedgwood/apiserver v0.33.3-0.20261002004149-a5a724954ed4
